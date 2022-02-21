@@ -14,8 +14,7 @@
 ####Basta copiar a classe Main e colocar em uma IDE e rodar.
 
 
-
-
+🎉
 
 #####Autor: Lucas Crayer
 
