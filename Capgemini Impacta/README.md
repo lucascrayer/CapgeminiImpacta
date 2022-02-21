@@ -13,3 +13,9 @@
 ####Ao digitar uma palavra o código irá procurar por substrigs e concatenalas em uma List de arrays.
 ####Basta copiar a classe Main e colocar em uma IDE e rodar.
 
+
+
+
+
+#####Autor: Lucas Crayer
+
