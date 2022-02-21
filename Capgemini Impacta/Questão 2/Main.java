@@ -1,4 +1,5 @@
 package Impacta;
+import PasswordReadere;
 
 import java.util.Scanner;
 //inicia a main

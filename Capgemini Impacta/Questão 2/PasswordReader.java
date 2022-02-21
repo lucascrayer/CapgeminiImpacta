@@ -1,4 +1,7 @@
-package Impacta;
+import Impacta.VerifyLowerCase;
+import Impacta.VerifyNumber;
+import Impacta.VerifySpecialChar;
+import Impacta.VerifyUpperCase;
 
 /**
  *
