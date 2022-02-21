@@ -1,2 +1,0 @@
-# CapgeminiImpacta
-Capgemini Impacta 
